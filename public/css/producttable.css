@@ -1,0 +1,24 @@
+.prodtable {
+    border:0px !important;
+    width:100%;
+}
+
+table.prodtable tr:hover {
+    background-color:white !important;
+}
+
+table.prodtable td {
+    border:0px !important;
+}
+
+table.prodtable .labels {
+    color:grey;
+    font-weight:bold;
+    font-size:1em;
+}
+table.prodtable .title {
+    color:#FFB533;
+    font-weight:bold;
+    font-size:1em;
+}
+
